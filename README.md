@@ -90,11 +90,11 @@
 
 <p align="center">
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/jakariahossinsv/jakariahossinsv">
 <img src="https://img.shields.io/badge/GitHub-Explore_Projects-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/jakaria-hossin">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
