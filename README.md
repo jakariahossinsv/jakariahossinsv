@@ -116,16 +116,19 @@
 
 <p align="center">
 
-<a href="https://github.com/jakariahossinsv/jakariahossinsv">
+<a href="https://github.com/jakariahossinsv">
 <img src="https://img.shields.io/badge/GitHub-Explore_Projects-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="www.linkedin.com/in/jakaria-hossin">
+<a href="https://www.linkedin.com/in/jakaria-hossin">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-</p>
+<a href="https://www.facebook.com/jakaria.hossin.222753">
+<img src="https://img.shields.io/badge/Facebook-Connect_&_Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 
+</p>
 ---
 
 <p align="center">
