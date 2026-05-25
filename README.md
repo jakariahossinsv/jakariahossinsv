@@ -78,12 +78,37 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Digital Footprint
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jakariahossinsv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakariahossinsv&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakariahossinsv&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+
+</p>
+
+<p align="center">
+
+![Journey](https://img.shields.io/badge/Tech_Journey-Since_July_2024-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20QA%20%7C%20IoT-purple?style=for-the-badge)
+![Status](https://img.shields.io/badge/Always-Learning-success?style=for-the-badge)
+
+</p>
+
+---
+
+## 🚀 Coding Journey
+
+✨ Started my GitHub and tech learning journey in **July 2024**, exploring AI, QA, automation, and innovative technologies while continuously building new skills.
+
+> 🌌 *"Learning never stops — every project is a new adventure."*
 
 ---
 
