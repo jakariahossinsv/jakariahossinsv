@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there! This is Fahim 😊
+Welcome to my tech journey — exploring AI, automation, and innovation along the way 🚀✨
 
 <!--
 **jakariahossinsv/jakariahossinsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
