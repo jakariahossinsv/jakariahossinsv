@@ -11,6 +11,7 @@
 ## 🧑‍💻 About Me
 
 🎓 **Student at Daffodil International University**  
+🎯 **Goal: Becoming an AI Journalist & Tech Storyteller**  
 🧪 **QA Enthusiast | AI & IoT Explorer**  
 🤖 **Interested in AI, Automation, IoT, SQA & DevOps**  
 💻 **Learning & Building with C, C++, Java, Python & SQL**  
